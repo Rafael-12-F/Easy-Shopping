@@ -13,4 +13,4 @@
 <br>
 <br>
 <br>
-< img src= "https://github.com/Rafael-12-F/Easy-Shopping/blob/main/mobile.png?raw=true" align="center" >
+< img src="https://github.com/Rafael-12-F/Easy-Shopping/blob/main/mobile.png?raw=true"  >
